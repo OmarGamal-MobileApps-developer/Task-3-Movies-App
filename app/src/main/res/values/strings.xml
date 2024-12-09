@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Third task</string>
+    <string name="logo">Your Logo Text</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="Please_details">Please enter your details</string>
+    <string name="Your_name">User name</string>
+    <string name="Your_Password">Password</string>
+    <string name="Log_In">Log In</string>
+    <string name="Movies_App">Movies App</string>
+    <string name="Welcome">Welcome,Omar</string>
+
+</resources>
